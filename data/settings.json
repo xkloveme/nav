@@ -28,7 +28,7 @@
     }
   ],
   "simThemeDesc": "小康导航 <b>${total}</b> 个优质网站",
-  "simThemeHeight": 550,
+  "simThemeHeight": 450,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
@@ -44,7 +44,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 548,
+  "sideThemeHeight": 450,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": false,
   "shortcutThemeImages": [
@@ -57,11 +57,5 @@
   ],
   "showLanguage": true,
   "showRate": false,
-  "mirrorList": [
-    {
-      "url": "1",
-      "icon": "",
-      "name": "1"
-    }
-  ]
+  "mirrorList": []
 }
